@@ -26,3 +26,6 @@ print(desktop.computer_manufacturer)
 print(desktop.windows_edition)
 print(desktop.memory_space)
 desktop.playGame("Mobile Legend")
+
+print('testing')
+print('hello')
